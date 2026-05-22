@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "tongtaismp.aternos.me:52710",
+    "ip": "tongtaismp.aternos.me",
     "port": 52710,
     "version": "",
     "try-creative": false
